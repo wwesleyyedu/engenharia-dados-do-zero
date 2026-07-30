@@ -1,0 +1,11 @@
+id_venda,data,produto,categoria,quantidade,preco_unitario,cidade
+1,2026-01-05,Notebook,Informática,2,3500,Aracaju
+2,2026-01-06,Mouse,Informática,5,80,Lagarto
+3,2026-01-06,Teclado,Informática,3,150,Itabaiana
+4,2026-01-07,Cadeira,Escritório,2,650,Aracaju
+5,2026-01-07,Monitor,Informática,1,1200,Lagarto
+6,2026-01-08,Mesa,Escritório,1,900,Estância
+7,2026-01-08,Notebook,Informática,1,3500,Aracaju
+8,2026-01-09,Mouse,Informática,10,80,Lagarto
+9,2026-01-09,Cadeira,Escritório,2,650,Itabaiana
+10,2026-01-10,Monitor,Informática,3,1200,Aracaju
